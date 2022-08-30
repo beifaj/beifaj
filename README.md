@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @beifaj
-- 👀 I’m enthusiastic about any thing on software developments and AI
-- 🌱 I’m currently learning SQL & Python for Analysis
-- 💞️ I’m looking to collaborate on ???
-- 📫 How to reach me beifaj@yahoo.com
+- 👋 Hi, I’m AJAH BEULAH
+- 👀 I’m a software enthusiast
+- 🌱 I currently work with data using SQL & Python for cleaning and making analysis
+- 💞️ I’m a work in progress with no collaboration yet.
+- 📫 I can be reached direclty on LinkedIn or IG as AJAH BEULAH
 
 <!---
 beifaj/beifaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
